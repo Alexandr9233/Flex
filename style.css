@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    background-color: rgb(151, 178, 202);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 5px;
+    margin: 45px auto;
+    border-radius: 3px;
+}
+
+.container > div {
+    background-color: red;
+    margin: 5px;
+    padding: 15px;
+    color: seashell;
+    border-radius: 3px;
+}
