@@ -17,3 +17,16 @@
     color: seashell;
     border-radius: 3px;
 }
+.h {
+    display: block;
+    text-transform: uppercase;
+    background: linear-gradient(180deg, rgba(50,63,66,1) 42%, rgba(21,110,128,1) 61%);
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 50px;
+    opacity: 0.5;
+    letter-spacing: 15px;
+    text-align: center;
+    font-weight: 800;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
